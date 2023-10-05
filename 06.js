@@ -14,3 +14,6 @@ else{
     console.log(`${url} is valid Linkedln`)
 
 }
+
+// output
+// https://www.linkedin.com/feed/ is valid Linkedln

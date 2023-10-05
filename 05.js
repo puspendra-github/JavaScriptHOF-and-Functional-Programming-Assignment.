@@ -13,3 +13,6 @@ if(isValidUrl(url)){
 else{
     console.log(`${url} is not a valid URL`)
 }
+
+// output
+// https://pwskills.com/ is Valid url

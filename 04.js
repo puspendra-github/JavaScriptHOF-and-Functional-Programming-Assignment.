@@ -38,3 +38,10 @@ const result = filteredBooks.map((book)=>{
 })
 
 console.log(result)
+
+
+// Output
+// [
+//     { book: 'Deep Work', author: 'VIKASH', year: 2011 },
+//     { book: 'Power of subconsious mind', author: 'AYUSHI', year: 2011 }
+//   ]

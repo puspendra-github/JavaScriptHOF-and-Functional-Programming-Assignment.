@@ -18,3 +18,6 @@ function getNameDelay(){str
 
 getNameDelay(str)
 
+// Output
+
+// Reversed String:tpircsavaJ nrael ot etanoissap m'I
